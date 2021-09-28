@@ -1,0 +1,62 @@
+
+body {
+  background: linear-gradient(rgba(0, 0, 50, 0.5), rgba(0, 0, 50, 0.6)), url("../car.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #F7F8FF;
+  font-family: 'Roboto', sans-serif;
+}
+
+.Box {
+  max-width: 700px;
+  float: none;
+  margin: 100px auto;
+}
+
+.head {
+  max-width: 100%;
+  max-height: 200px;
+  float: none;
+  text-align: center;
+  margin-top: 2em;
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: 'Righteous', cursive;
+  color: #FFFFFF;
+}
+
+
+
+.navbar-toggle {
+  float: left !important;
+  margin-left: 15px;
+}
+
+.navbar-header.navbar-right.pull-right {
+  margin-right: 15px;
+}
+
+.navbar-right > li {
+  float: left;
+}
+
+.navia{
+  color: white;
+}
+li{
+  margin: 0 auto;
+}
+
+
+.banner-image{
+    background: linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.8)), url(../car2.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+.enquiry{
+
+  padding: 10px 8px;
+  
+}

@@ -1,0 +1,114 @@
+body {
+  background: linear-gradient(rgba(0, 0, 50, 0.5), rgba(0, 0, 50, 0.6)), url("../car.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #F7F8FF;
+}
+
+.Box {
+  max-width: 700px;
+  float: none;
+  margin: 100px auto;
+}
+
+.head {
+  max-width: 100%;
+  max-height: 200px;
+  float: none;
+  text-align: center;
+  margin-top: 2em;
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: 'Righteous', cursive;
+}
+
+.logincard {
+  background: rgba(211, 211, 211, 0.5);
+  padding: 30px;
+
+
+}
+
+.searchcard {
+  background: whitesmoke;
+  padding: 30px;
+  color: black;
+
+}
+
+.form-control {
+  background-color: transparent !important;
+}
+
+
+span {
+  display: flex;
+}
+
+span a {
+  text-decoration: none;
+  color: #DADADA;
+}
+
+.navbar-toggle {
+  float: left !important;
+  margin-left: 15px;
+}
+
+.navbar-header.navbar-right.pull-right {
+  margin-right: 15px;
+}
+
+.navbar-right>li {
+  float: left;
+}
+
+.navia {
+  color: white;
+}
+
+li {
+  margin: 0 auto;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+.banner-image {
+  background: linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.8)), url(../car2.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+
+.bttn {
+  width: 100%;
+
+}
+
+button {
+  width: 100%;
+}
+
+.cars-deck {
+  height: 100px;
+}
+
+.card-img-top {
+  height: 180px;
+  width: 100%;
+}
+.alert {
+  width: 100%;
+  font-size: 1.3rem;
+  text-align: center;
+}
+
+.msg{
+  background: rgba(211, 211, 211, 0.5);
+  padding: 30px;
+  
+}
+.textarea_wrap{
+  border: 1px solid 
+}

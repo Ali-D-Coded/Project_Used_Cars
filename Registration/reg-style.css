@@ -1,0 +1,57 @@
+body {
+  background: linear-gradient(rgba(0, 0, 50, 0.5), rgba(0, 0, 50, 0.6)), url("../car.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #23253E;
+}
+
+.Box {
+  max-width: 600px;
+  margin: 100px auto;
+  background: #FFFFFF;
+  padding: 20px;
+  align-items: center;
+  border: 1px solid white;
+}
+
+.head {
+  max-width: 100%;
+  max-height: 200px;
+  float: none;
+  padding: 2em;
+  text-align: center;
+  margin-top: 2em;
+}
+
+h1 {
+  font-size: 4rem;
+  font-family: 'Righteous', cursive;
+  color: #FFFFFF;
+}
+
+
+.regicard{
+  margin: auto;
+}
+
+
+.inputfd{
+ border: 1px solid #B0B1BD;
+}
+
+
+.gotolog{
+  display: flex;
+  margin: 1em;
+}
+.gotolog a{
+  text-decoration: none;
+  color: #0015FF;
+}
+.regia{
+  color: #FFFFFF;
+  text-decoration: none;
+}
+.form-group{
+  position: relative;
+}

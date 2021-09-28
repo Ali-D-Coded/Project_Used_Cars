@@ -1,0 +1,108 @@
+body {
+  background: url("../pexels-yurii-hlei-1545743.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #F7F8FF;
+  
+}
+
+.Box {
+  max-width: 700px;
+  float: none;
+  margin: 100px auto;
+}
+
+.head {
+  max-width: 100%;
+  max-height: 200px;
+  height: 100px;
+  float: none;
+  text-align: center;
+  background-color:#333336;
+  position: relative;
+  bottom: 4.5rem;
+  padding: 1rem; 
+  margin-top: 0px;
+}
+
+h1 {
+  font-size: 4rem;
+  font-family: 'Righteous', cursive;
+  position: relative;
+  
+}
+
+
+.form-control {
+  background-color: transparent !important;
+}
+
+
+span{
+  display: flex;
+}
+span a{
+  text-decoration: none;
+  color: #DADADA;
+}
+.navbar-toggle {
+  float: left !important;
+  margin-left: 15px;
+}
+
+.navbar-header.navbar-right.pull-right {
+  margin-right: 15px;
+  
+}
+
+.navbar-right > li {
+  float: left;
+}
+.nav{
+  background-color: #333336;
+  transform: translateY(-4.5rem);
+  
+}
+
+.navia{
+  color: white;
+}
+li{
+  margin: 0 auto;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+.banner-image {
+  transform: translateY(-4.58em);
+  background: linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.1));
+  background-size: cover;
+  background-position: center;
+}
+
+.bttn{
+  width: 80%;
+  margin: auto;
+}
+
+input[type='submit']{
+  width: 5em;
+  margin: .5em;
+}
+
+
+
+.alert{
+  width: 100%;
+  font-size: 1.3rem;
+  text-align: center;
+}
+.cars-deck {
+  height: 100px;
+  padding: 2em;
+}
+
+.card-img-top {
+  height: 180px;
+  width: 100%;
+}
